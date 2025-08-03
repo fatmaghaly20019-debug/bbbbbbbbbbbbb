@@ -155,7 +155,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
             className="text-2xl md:text-3xl font-bold text-white mb-6 animate-slideInUp glowing-text"
             style={{ animationDelay: "0.2s" }}
           >
-            مسابقه المولد النبوي الشريف بدار المناسبات بالجامع الشرقي
+            مسابقه المولد النبوي الشريف بدار المناسبات الشرقيه
           </h3>
 
           <div className="flex justify-center items-center gap-3 mb-6 animate-fadeInScale">
