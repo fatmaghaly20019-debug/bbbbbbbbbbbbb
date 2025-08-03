@@ -275,7 +275,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                           <h3 class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-100">الأسئلة الشائعة</h3>
                           <div class="text-gray-700 dark:text-gray-300 space-y-3">
                             <p><strong>كيف يتم التسجيل؟</strong></p>
-                            <p>تسجيل بيانات الحفظة يتم من خلال المحفظين، ومن يحفظ مع ولي أمره عليه التواصل مع إدارة المسجد الشرقي</p>
+                            <p>تسجيل بيانات الحفظة يتم من خلال المحفظين، ومن يحفظ مع ولي أمره عليه التواصل مع إدارة دار المناسبات الشرقيه</p>
                             <a href="#contact" onclick="this.parentElement.parentElement.parentElement.remove(); document.querySelector('.contact-section')?.scrollIntoView({behavior: 'smooth'})" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors mt-2">
                               للتواصل
                             </a>
@@ -322,7 +322,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
               : 'bg-white/5 border-white/10'
           }`}>
             <p className="text-blue-200 text-lg font-semibold mb-2">
-              &copy; 2025 مسابقه المولد النبوي الشريف بالجامع الشرقي. جميع الحقوق محفوظة.
+              &copy; 2025 مسابقه المولد النبوي الشريف بدار المناسبات الشرقيه. جميع الحقوق محفوظة.
             </p>
             <div className="flex items-center justify-center gap-2 text-purple-300">
               <Heart className="w-4 h-4 animate-pulse" />
