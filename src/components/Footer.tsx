@@ -154,8 +154,8 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="https://drive.google.com/uc?export=view&id=13ViHptNO-rYf4DU2FioC2UiuA-bJoC4A"
-                      alt="المهندس احمد طارق عبدالهادي علي الدين"
+                      src="https://www.mediafire.com/convkey/b8c8/gfbsdvor275i0lnzg.jpg"
+                      alt="البشمهندس احمد طارق عبدالهادي"
                       className="w-12 h-12 rounded-full object-cover border-2 border-purple-300 shadow-lg"
                     />
                     <div className="flex-1">
@@ -165,8 +165,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                           modal.className = 'fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4';
                           modal.innerHTML = `
                             <div class="bg-white dark:bg-gray-800 rounded-2xl p-6 max-w-md w-full text-center">
-                              <h3 class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-100">تواصل مع المهندس احمد طارق عبدالهادي علي الدين</h3>
-                              <h3 class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-100">تواصل مع البشمهندس احمد طارق عبدالهادي علي الدين</h3>
+                              <h3 class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-100">تواصل مع البشمهندس احمد طارق عبدالهادي</h3>
                               <div class="space-y-4">
                                 <a href="https://wa.me/201559181558" target="_blank" rel="noopener noreferrer" class="block bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors">
                                   واتساب
@@ -187,7 +186,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                         }}
                         className="text-white hover:text-yellow-300 transition-colors font-bold text-lg block glowing-text"
                       >
-                        البشمهندس احمد طارق عبدالهادي علي الدين
+                        البشمهندس احمد طارق عبدالهادي
                       </button>
                       <p className="text-blue-200 text-sm">للتواصل عبر الواتساب والفيسبوك</p>
                     </div>
